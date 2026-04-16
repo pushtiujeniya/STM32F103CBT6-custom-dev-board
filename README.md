@@ -13,4 +13,6 @@ This project contains custom development board based on the STM32F103 microcontr
 - External crystal oscillator with load capacitors
 - MCU reser switch
 - Clean PCB layout with proper grouding and differential routing for mico USB connection
+- Board size: 35.5 mm X 23.6 mm
+  
 
